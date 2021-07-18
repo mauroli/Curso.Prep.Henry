@@ -17,6 +17,6 @@ En un archivo de texto separado que debes crear, escribe explicaciones de los si
     la unica forma de que se escape algo de la funcion es con return,  DATO IMPORTANTE; puedo guardar lo que me devolvio la funcion en una variable. Cuando el interprete llega a return, detiene automaticamente la funcion 
 
 	* Declaraciones `if`
-    estas sirve para que la funcion chequee si algo es true, si no lo es seguira a la siguiente linea 
+    estas sirve para que la funcion chequee si algo es true, si no lo es seguira a la siguiente linea .
 
 	* Valores booleanos (`true`, `false`)
